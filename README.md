@@ -1,6 +1,6 @@
 # mathgenious
 
-A new Flutter application.
+Juego de competencia para dos jugadores con preguntas de multiplicaciones
 
 ## Getting Started
 
